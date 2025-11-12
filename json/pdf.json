@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "url": "wallpaper/pdf/animals.pdf"
+        },
+        {
+            "id": 1,
+            "url": "wallpaper/pdf/cat.pdf"
+        },
+        {
+            "id": 1,
+            "url": "wallpaper/pdf/dog.pdf"
+        },
+        {
+            "id": 1,
+            "url": "wallpaper/pdf/man.pdf"
+        },
+        {
+            "id": 1,
+            "url": "wallpaper/pdf/women.pdf"
+        }
+    ]
+}
