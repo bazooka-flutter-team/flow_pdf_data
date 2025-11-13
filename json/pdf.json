@@ -2,23 +2,23 @@
     "data": [
         {
             "id": 1,
-            "url": "wallpaper/pdf/animals.pdf"
+            "url": "pdf/animals.pdf"
         },
         {
             "id": 1,
-            "url": "wallpaper/pdf/cat.pdf"
+            "url": "pdf/cat.pdf"
         },
         {
             "id": 1,
-            "url": "wallpaper/pdf/dog.pdf"
+            "url": "pdf/dog.pdf"
         },
         {
             "id": 1,
-            "url": "wallpaper/pdf/man.pdf"
+            "url": "pdf/man.pdf"
         },
         {
             "id": 1,
-            "url": "wallpaper/pdf/women.pdf"
+            "url": "pdf/women.pdf"
         }
     ]
 }
